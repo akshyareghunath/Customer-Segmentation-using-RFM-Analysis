@@ -2,7 +2,7 @@
 
 This project performs customer segmentation using RFM (Recency, Frequency, Monetary) analysis on a retail dataset.
 The goal is to identify high-value customers, loyal customers, and customers at risk of churn so that businesses can make better marketing and retention decisions.
-Business Objective
+##Business Objective
 Companies need to understand customer behavior to:
 Increase customer retention
 Improve targeted marketing campaigns
