@@ -2,14 +2,14 @@
 
 This project performs customer segmentation using RFM (Recency, Frequency, Monetary) analysis on a retail dataset.
 The goal is to identify high-value customers, loyal customers, and customers at risk of churn so that businesses can make better marketing and retention decisions.
-##Business Objective
+## Business Objective
 Companies need to understand customer behavior to:
 Increase customer retention
 Improve targeted marketing campaigns
 Identify high-value customers
 Reduce churn
 RFM analysis helps segment customers based on their purchase patterns.
-##Dataset
+## Dataset
 The dataset contains transactional data from an online retail store, including:
 Customer ID
 Invoice number
@@ -20,12 +20,12 @@ From this data, we calculate:
 Recency: Days since last purchase
 Frequency: Number of purchases
 Monetary: Total spending
-##Tools & Technologies
+## Tools & Technologies
 Python
 Pandas
 Matplotlib
 Jupyter Notebook
-##Project Workflow
+## Project Workflow
 1. Data Cleaning
 Standardized column names
 Removed missing customer IDs
@@ -58,12 +58,12 @@ The project includes:
 Customer count by segment
 Average revenue by segment
 These visualizations help identify which segments are most valuable.
-##Key Insights
+## Key Insights
 Champions generate the highest revenue.
 Loyal customers provide stable income.
 At-risk customers show declining activity.
 Lost customers have low engagement.
-##Business Recommendations
+## Business Recommendations
 Reward champions with loyalty programs.
 Offer targeted promotions to at-risk customers.
 Re-engage lost customers with special discounts.
